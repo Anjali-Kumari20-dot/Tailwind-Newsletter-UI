@@ -37,7 +37,9 @@ html
 📁 project-folder
 
  ├── 📜 index.html
+ 
  ├── 📜 style.css
+ 
  └── 📜 README.md
  
 ✨ Customization
